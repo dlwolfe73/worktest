@@ -1,6 +1,8 @@
 <?php
 //Testing it out
 
+
+$test_out_git = "test string forchange";
 require 'dicom/nanodicom.php';
 $dir = 'C:/wamp/www/chiro/documents/dicom/wrix/';
 //$dir="C:/wamp/www/chiro/dicom/samples/"; //C:\wamp\www\chiro\dicom\samples\jpg
