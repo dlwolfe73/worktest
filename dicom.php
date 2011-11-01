@@ -8,7 +8,7 @@ $dir = 'C:/wamp/www/chiro/documents/dicom/wrix/';
 //$dir="C:/wamp/www/chiro/dicom/samples/"; //C:\wamp\www\chiro\dicom\samples\jpg
 $can_change_test_for_svn = '1';
 $jpg_dir = $dir . 'jpg/';
-
+$test = "2";
 $web_dir = 'documents/dicom/wrix/jpg/';
 //$web_dir = 'dicom/samples/jpg/';
 
