@@ -2,7 +2,7 @@
 //Testing it out
 
 
-$test_out_git = "test string forchange";
+$test_out_git = "test string forchange 2";
 require 'dicom/nanodicom.php';
 $dir = 'C:/wamp/www/chiro/documents/dicom/wrix/';
 //$dir="C:/wamp/www/chiro/dicom/samples/"; //C:\wamp\www\chiro\dicom\samples\jpg
